@@ -1052,6 +1052,13 @@ footer a:hover {
   background-position: 50%;
   overflow: hidden;
 }
+
+#chefs-choice1 {
+  background: url('../img/about.jpg') fixed;
+  background-size: cover;
+  background-position: 50%;
+  overflow: hidden;
+}
 #chefs-choice .star {
   position: absolute;
   top: 5px;
