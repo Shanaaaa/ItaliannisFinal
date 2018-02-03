@@ -1057,7 +1057,7 @@ footer a:hover {
 #chefs-choice .star {
   position: absolute;
   top: 5px;
-  font-size: 18px;
+  font-size: 25px;
   color: #282628;
   height: 40px;
   width: 40px;
@@ -1691,7 +1691,7 @@ button {
   outline: 0px;
 }
 .btn {
-  border: 2px solid #d8e331;
+  border: 2px solid #fdfefd;
   text-transform: uppercase;
   color: #d8e331;
   background: transparent;
@@ -1710,8 +1710,8 @@ button {
   color: #ffffff;
 }
 .btn-inverse {
-  color: #074826;
-  background: #e6ee30;
+  color: #fdfefd;
+  background: transparent;
 }
 .btn-inverse:hover {
   background: transparent;
