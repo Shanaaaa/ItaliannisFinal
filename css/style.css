@@ -189,7 +189,7 @@ body {
 body {
   background: #136d3d;
   font-family: 'open_sans', serif;
-  font-size: 15px;
+  font-size: 19px;
   letter-spacing: 0.03em;
   overflow-x: hidden;
   color: #cccccc;
@@ -1084,7 +1084,7 @@ footer a:hover {
 #chefs-choice .content h3 {
   text-transform: capitalize;
   font-family: 'great_vibes', cursive;
-  font-size: 36px;
+  font-size: 38px;
   color: #dde82f;
   margin: 0 0 30px 0;
 }
