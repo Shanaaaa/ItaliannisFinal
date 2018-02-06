@@ -188,11 +188,19 @@ body {
 }
 body {
   background: #136d3d;
-  font-family: 'open_sans', serif;
+  font-family: 'palatino', serif;
   font-size: 18px;
-  letter-spacing: 0.03em;
+  letter-spacing: 0.02em;
   overflow-x: hidden;
-  color: #cccccc;
+  color: #fafafa;
+}
+body {
+  background: #136d3d;
+  font-family: 'palatino', serif;
+  font-size: 18px;
+  letter-spacing: 0.02em;
+  overflow-x: hidden;
+  color: #0a0a0a;
 }
 hr {
   border-top: 2px solid #282628;
@@ -793,6 +801,7 @@ footer a:hover {
   width: 100%;
   transition: 0.4s all ease;
   -webkit-transition: 0.4s all ease;
+  border: 5px solid #6b4025
 }
 
 
@@ -824,7 +833,7 @@ footer a:hover {
   color: #eeec28;
 }
 .menu-thumbnails .caption {
-  color: #ffffff;
+  color: #0a4726;
   text-transform: uppercase;
   font-size: 18px;
   font-family: 'open_sans', sans-serif;
@@ -847,6 +856,7 @@ footer a:hover {
 }
 .menu-thumbnails img {
   margin-bottom: 30;
+  border: 5px solid #6b4025;
 }
 
 
@@ -1623,7 +1633,7 @@ h4,
 h5,
 h6 {
   font-family: 'open_sans', sans-serif;
-  color: #ffffff;
+  color: #0a4726;
   text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
 }
 
@@ -1650,7 +1660,7 @@ form .form-control {
   -webkit-border-radius: 0;
   -moz-border-radius: 0;
   border-radius: 0;
-  border: 1px solid #ffffff;
+  border: 1px solid #0b4726;
   box-shadow: none;
   height: 50px;
   background: transparent;
@@ -1669,7 +1679,7 @@ form .has-success .form-control:focus {
 form .form-group label {
   font-family: 'open_sans', sans-serif;
   text-transform: uppercase;
-  color: #ffffff;
+  color: #222022;
 }
 form textarea {
   min-height: 100px;
